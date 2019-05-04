@@ -24,8 +24,9 @@ const tpl =
                     <span class="folders"></span> <span class="l10n-folders"></span>,
                     <span class="files"></span> <span class="l10n-files"></span>
                 </div>
-            </div>
+            </div>  
             <div class="qrcode"/>
+            <div class="docs">扫码在线观看文档</div>
         </div>`;
 const settingsTpl =
         `<div class="block">

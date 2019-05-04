@@ -5,9 +5,9 @@ const topbarTpl =
         `<div id="topbar">
             <div id="toolbar"></div>
             <div id="flowbar"></div>
-            <a id="backlink" href="https://larsjung.de/h5ai/" title="powered by h5ai - https://larsjung.de/h5ai/">
-                <div>powered</div>
-                <div>by h5ai</div>
+            <a id="backlink" href="http://cloudwiki.h3c.com" title="H3C 云计算资料库">
+                <div style="color:#e60010;font-size:16px;font-weight: 700;">H3C</div>
+                <div>CloudWiki</div>
             </a>
         </div>`;
 const mainrowTpl =
