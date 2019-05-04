@@ -1,5 +1,7 @@
 # h5ai
 
+此版本部分前端显示已修改，仅用于学习使用。
+
 [![license][license-img]][github] [![web][web-img]][web] [![github][github-img]][github]
 
 A modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee.
